@@ -3,7 +3,7 @@
 ## Introduction
 
 > Quakey is a simple script to scrape Iran's earthquake data from http://irsc.ut.ac.ir/
-This python program can be used for monitoring and etc.
+This python program can be used for monitoring etc.
 
 
 
@@ -24,4 +24,4 @@ print(lrg) # Print large event
 
 ## Installation
 
-> Git clone the repository. Place this module to the correct path and import it to your program. 
+> Git clone the repository. Import it to your program. 
